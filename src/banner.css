@@ -1,0 +1,10 @@
+.puptext{
+    text-align: center;
+    font-size: 18px;
+    line-height: 24px;
+}
+.bnr{
+    height: 600px;
+    overflow-y: scroll;
+}
+.bnr::-webkit-scrollbar { width: 0 !important }
